@@ -1,4 +1,4 @@
 function Saludar()
 {
-	alert("Hola Mundo");
+	alert($("p"));
 }
